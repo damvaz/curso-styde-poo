@@ -1,0 +1,21 @@
+{
+    "name": "styde/oop",
+    "description": "OOP Course",
+    "type": "project",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Damián Vazquez",
+            "email": "damiancho.vazquez@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Styde\\": "src/"
+        }
+    }
+}

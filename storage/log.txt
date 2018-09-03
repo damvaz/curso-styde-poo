@@ -1,0 +1,5 @@
+(2018-08-31 12:04:38) Silence shoot with a firebow to Ramm
+(2018-08-31 12:04:38) Ramm now has 10 life points
+(2018-08-31 12:04:38) Silence shoot with a firebow to Ramm
+(2018-08-31 12:04:38) Ramm now has -20 life points
+(2018-08-31 12:04:38) Ramm dies
